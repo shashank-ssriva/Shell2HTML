@@ -16,3 +16,21 @@ Report has been generated in /home/shashank/health_reports with file-name = /hom
 shashank@shashank-dbserver:~$ 
 ```
 Change ``$email_add`` to your email-address in script.
+
+## Screenshots
+
+Below are the screenshots :
+
+<img src="https://github.com/shashank-ssriva/Shell2HTML/blob/master/shell2html.png" height="400" width="500">
+
+<img src="https://github.com/shashank-ssriva/Shell2HTML/blob/master/shell2html2.png" height="400" width="450">
+
+<img src="https://github.com/shashank-ssriva/Shell2HTML/blob/master/shell2html3.png" height="400" width="500">
+
+## YouTube Demo Video
+
+Click below thumbnail to watch the demo video  
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/jgG5UN6geUE
+" target="_blank"><img src="http://img.youtube.com/vi/jgG5UN6geUE/0.jpg" 
+alt="lognotify YourTube demo video" width="480" height="360" border="10" /></a>
